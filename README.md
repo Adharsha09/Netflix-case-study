@@ -28,7 +28,7 @@ Using Python and data science techniques, we extract meaningful information to u
    git clone https://github.com/Adharsha09/Netflix-case-study.git
 
 2. Install dependencies:
-   pip install pandas numpy matplotlib seaborn jupyter
+   !pip install pandas numpy matplotlib seaborn jupyter
 
 3. Open the Jupyter Notebook:
     jupyter notebook
