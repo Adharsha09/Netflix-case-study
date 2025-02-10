@@ -45,7 +45,7 @@ If you have any questions or suggestions, feel free to reach out!
 
 📧 Email: adharsha.t.n@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/datawithadharsha
+🔗 LinkedIn: https://www.linkedin.com/in/datawithadharsha/
 
 🐙 GitHub: https://github.com/Adharsha09
  
